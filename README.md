@@ -551,7 +551,7 @@ Potential extensions to this project include:
 
 # 👨‍💻 Author
 
-**Rahul Shah**
+**Rahul Shah** **IIT Delhi MnC**
 
 This project was created as part of a portfolio of **Data Analytics, Business Intelligence, and Data Visualization projects**.
 
